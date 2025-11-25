@@ -14,5 +14,7 @@ There are many lists of Type Casting functions
 11) bytes() --> bytes data type me conver krne k liye 
 12) bytearray() --> bytearray data type me convert krne k liye 
 13) memoryview() --> memory data type me convert krne k liye
+14) range() --> range data type me convert krne k liye
+
 
 """
